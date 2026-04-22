@@ -19,7 +19,7 @@ class PurchaseOrder extends Mailable
      */
     public function __construct()
     {
-        //
+            //
     }
 
     /**
