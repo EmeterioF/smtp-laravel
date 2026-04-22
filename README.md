@@ -1,3 +1,5 @@
+git clone https://github.com/EmeterioF/smtp-laravel.git
+
 composer install
 
 cp .env.example .env
